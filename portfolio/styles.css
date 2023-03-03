@@ -1,0 +1,346 @@
+*{
+
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+
+   
+   
+   
+   
+   
+
+   }
+       .logo{
+         display: flex;
+         align-items: center;
+         width: 20%;
+         height: 40%;
+         
+      }
+   
+img{
+   width: 25px;
+   height: 30px;
+   margin-top: 2%;
+         margin-left: 3%;
+  
+}
+    
+h3{
+   color: #efeff1;
+   width: 20%;
+   height: 25px;
+   margin-left: 3%;
+}
+.hero nav a{
+
+   display: inline;
+   width: 30%;
+   margin: auto;
+   padding: 1px 0;
+  color: rgb(255, 255, 255);
+}
+nav{
+   display: flex;
+   width: 45%;
+   margin: auto;
+   padding: 1px 0;
+   align-items: center;
+   justify-content: space-between;
+   font-weight: bold;
+   margin-left: 12%;
+   margin-top: 1%;
+   
+   
+
+}
+
+nav ul li{
+   display: inline-block;
+   list-style: none;
+   margin: 10px 20px;
+   
+   }
+   
+
+
+.DETAILS{
+   margin-left: 10%;
+   margin-top: 12%;
+}
+.DETAILS h1{
+   font-size: 60px;
+   color: #ffffff;
+   margin-bottom: 40px;
+}
+span{
+   color:gold;
+}
+.DETAILS p{
+   color: #ffffff;
+
+}
+.icons{
+   display: flex;
+margin-left: 85%;
+margin-top: -2%;
+width: 10%;
+justify-content: space-between;
+}
+.services{
+   margin-left: 60%;
+   margin-top: -20%;
+}
+.services h2{
+   color: gold;
+   margin-top: -1%;
+}
+.services h3{
+   width: 65%;
+}
+.button p{
+   margin-left: 60%;
+   margin-top: 4%;
+   color: gold;
+}
+.arrow img{
+   margin-left: 66%;
+   margin-top: -15%;
+
+}
+.socail{
+   margin-left: 58%;
+   margin-top: -1%;
+}
+
+
+.images img{
+   width: 28%;
+    height: 50%;
+    margin-left: 28%;
+    margin-top: -22%;
+    
+    
+    
+}
+.shape{
+   width: 500px;
+   height: 500px;
+   border-radius: 50%;
+   background-color: rgb(41,41,51);
+   margin-top: -38%;
+   margin-left: 28%;
+}
+.rectangle{
+   width: 1200px;
+   height: 70px;
+   background-color: rgb(42, 42, 44);
+   border-color: rgb(226, 19, 19);
+   margin-left: 8%;
+   margin-top: -3%;
+   
+}.angle1{
+   width: 150px;
+   height: 50px;
+   background-color: rgb(68, 66, 66);
+   margin-left: 10%;
+   margin-top: -3.1%;
+}
+.angle2{
+   width: 150px;
+   height: 50px;
+   background-color: rgb(68, 66, 66);
+   margin-left: 30%;
+   margin-top: -3.1%;
+}
+.angle3{
+   width: 150px;
+   height: 50px;
+   background-color: rgb(68, 66, 66);
+   margin-left: 50%;
+   margin-top: -3.1%;
+}
+.angle4{
+   width: 150px;
+   height: 50px;
+   background-color: rgb(68, 66, 66);
+   margin-left: 70%;
+   margin-top: -3.1%;
+}
+.icon1{
+   width: 80px;
+   height: 50px;
+   margin-top: -2.75%;
+   margin-left: 12%;
+}
+.name1{
+   margin-top: -3.2%;
+   margin-left: 14%;
+   color: #ffffff;
+}
+.icon2 img{
+   
+   width: 6rem;
+   height: 100px;
+   margin-top: -3.8%;
+   margin-left: 32%;
+}
+
+   .wall{
+      background-color: rgb(68, 66, 66);
+
+   }
+   .icon3{
+      width: 80px;
+      height: 50px;
+      margin-top: -5.5%;
+      margin-left: 57%;
+   }
+   .name2{
+      margin-top: -3.2%;
+   margin-left: 51%;
+   color: #ffffff;
+   }
+   .icon4{
+      width: 80px;
+      height: 50px;
+      margin-top: -2.5%;
+      margin-left: 72%;
+   }
+   .name3{
+      margin-top: -3.2%;
+      margin-left: 74%;
+      color: #ffffff;
+   }
+   .wall2{
+      background-color: rgb(56, 56, 58);
+   }
+   .wall2 h1{
+      color: #ffffff;
+      margin-left: 5%;
+      margin-top: 1%;
+   }
+   .wall2 p{
+      color: gray;
+      margin-left: 5%;
+      margin-top: 1%;
+   }
+   .embition h1 {
+        color: gold;
+        margin-left: 5%;
+        margin-top: 1%;
+   }
+   .embition h4{
+      color: #ffffff;
+      margin-left: 4%;
+      margin-top: 0%;
+   } 
+   .embition2 h1{
+      color: gold;
+      margin-left: 18%;
+      margin-top: -3.5%;
+   }
+   .embition2 h4{
+      color: white;
+      margin-left: 15%;
+      margin-top: 0%;
+   }
+   .embition3 h1{
+      color: gold;
+      margin-left: 6%;
+      margin-top: 1%;
+   }
+   .embition3 h4{
+      color: white;
+     margin-left: 4.5%;
+   }
+   .ebmbition4 h1{
+      color: gold;
+      margin-left: 18%;
+      margin-top: -4%;
+   }
+   .ebmbition4 h4{
+      color: white;
+      margin-left: 16%;
+      margin-top: 0.5%;
+   }
+   .sidep  img{
+      width: 150px;
+      height: 70px;
+   margin-left: 65%;
+display: block;
+
+   }
+   .dh h2{
+color: #ffffff;
+margin-left: 80%;
+margin-top: -17%;
+   }
+   .dh p{
+      margin-left: 80%;
+margin-top: 0%;
+   }
+.dh2 h2{
+   color: #ffffff;
+   margin-left: 80%;
+   margin-top: 4%;
+}
+.dh2 p{
+   
+   margin-left: 80%;
+   margin-top: 0%;
+}
+.dh3 h2{
+   color: #ffffff;
+   margin-left: 80%;
+   margin-top: 4%;
+}
+.dh3 p{
+   margin-left: 80%;
+   margin-top: 0%;
+}
+.square1{
+   
+   width: 300px;
+   height: 200px;
+   background-color: rgb(42, 42, 44);
+   margin-left: 1%;
+   margin-top: -3%;
+   
+}
+.square2{
+   width: 300px;
+   height: 200px;
+   background-color: rgb(42, 42, 44);
+   margin-left: 23%;
+   margin-top: -12.7%;
+}
+
+
+      
+   
+
+
+
+   
+
+
+
+
+   
+
+   
+
+
+
+
+
+
+
+
+    
+
+
+
